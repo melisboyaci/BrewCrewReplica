@@ -47,4 +47,5 @@ flutter run
 <img width="705" alt="Ekran Resmi 2024-03-28 11 32 16" src="https://github.com/melisboyaci/BrewCrewReplica/assets/139956767/37f4f497-fc0d-413d-8855-c6c3797918bc">
 <img width="705" alt="Ekran Resmi 2024-03-28 11 33 02" src="https://github.com/melisboyaci/BrewCrewReplica/assets/139956767/dd788b99-69a5-4f70-a679-1ba7729401fc">
 
-
+## Credits
+https://www.youtube.com/watch?v=sfA3NWDBPZ4&list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC
